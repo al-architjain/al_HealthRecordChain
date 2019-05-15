@@ -79,3 +79,7 @@ transaction writeRecord {
   --> Patient patient
   o String data
 }
+
+transaction addParticipant {
+  
+}
